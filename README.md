@@ -12,7 +12,7 @@
 
 This is a simple command prompt game where the player is playing as an unnamed participant in a rock-paper-scissors tournament. It is written in C++ using Orwell Dev-C++ 5.11.
 
-There are three opponents and all of them have their own 
+There are three opponents and all of them have their own preferences (read: RNG percentages) to pick Rock, Paper or Scissors.
 
 <br/>
 
