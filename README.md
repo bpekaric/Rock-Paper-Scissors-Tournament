@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Tournament
+# Rock-Paper-Scissors Tournament
 
 1. ABOUT
 
@@ -19,6 +19,8 @@ There are three opponents and all of them have their own preferences (read: RNG 
 **STORY**
 
 You are participating in your county's rock-paper-scissors tournament and you have made it to the quarterfinals. You are only three victories away from winning the prize money of 1000 dollars. Pray to Lady Luck that you won't lose now, now that you're this close to victory.
+
+<br/>
 
 **LEGAL**
 
