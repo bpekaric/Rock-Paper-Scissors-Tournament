@@ -26,4 +26,4 @@ You are participating in your county's rock-paper-scissors tournament and you ha
 
 This program is licensed under the Apache License, version 2.0.
 
-Copyright 2018 Borna Pekaric
+Copyright 2018 Borna Pekarić
