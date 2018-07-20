@@ -25,7 +25,7 @@ int main()
 {
 	int enemy, enemy_choice, playing, enemy_chance, duel_result;
 	srand(time(0));
-	cout << "Rock-Paper-Scissors Tournament\n\nLicensed under the Apache License, version 2.0.\n\nCopyright 2018 Borna Pekaric\n\n";
+	cout << "Rock-Paper-Scissors Tournament\n\nLicensed under Apache License, version 2.0.\n\nCopyright 2018 Borna Pekaric\n\n";
 	system("pause");
 	system("cls");
 	cout << "You are participating in your county's rock-paper-scissors tournament and you\n";
