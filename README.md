@@ -32,6 +32,8 @@ Copyright 2018 Borna Pekarić
 
 <br/>
 
+**CHANGELOG**
+
 1.1
 
 - Fixed author's name in copyright notice.
