@@ -1,10 +1,12 @@
-# Rock-Paper-Scissors Tournament
+﻿# Rock-Paper-Scissors Tournament
 
 1. ABOUT
 
 2. STORY
 
 3. LEGAL
+
+4. CHANGELOG
 
 <br/>
 
@@ -27,3 +29,9 @@ You are participating in your county's rock-paper-scissors tournament and you ha
 This program is licensed under the Apache License, version 2.0.
 
 Copyright 2018 Borna Pekarić
+
+<br/>
+
+1.1
+
+- Fixed author's name in copyright notice.
